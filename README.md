@@ -1,7 +1,8 @@
 # Foodie_Heaven
 
 ## LOGO
-![navbar-logo](https://github.com/Srijita2002/Foodie_Heaven/assets/111299389/cc2d151c-1eed-49d4-ad77-297a293891b1)
+![logo1](https://github.com/Srijita2002/Foodie_Heaven/assets/111299389/b6713c44-805a-480f-9f34-bab67ae6c544)
+
 
 The purpose of an Online Food Ordering System is to automate the existing manual system with the help of computerized equipment and full-fledged computer software, fulfilling their requirements so that their valuable data/information can be stored for a longer period with easy access and manipulation of the same. It provides an attractive and user-friendly interface for customers to explore the restaurant's menu, make reservations, and order food online. With a focus on aesthetics and functionality, this website enhances the restaurant's online presence and customer engagement.
 
